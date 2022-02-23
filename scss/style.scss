@@ -1,0 +1,13 @@
+$primary: #3292a6;
+$primary-overlay: rgba(50, 146, 156, 0.7);
+
+
+.navbar{
+    box-shadow: 2px 2px 5px $primary;
+    
+    .nav-item{
+        font-size: 1.4rem;
+        padding-right: 20px;
+    }
+    
+}
